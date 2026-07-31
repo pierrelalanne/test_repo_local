@@ -1,0 +1,5 @@
+    DB CONTEXT
+    host=mongo.com
+    port=5434
+    username=root
+    password=m62mlez2td
