@@ -1,0 +1,4 @@
+    DB CONTEXT
+    host=mongo.com:5434
+    username=root
+    password=m62mlez2td
