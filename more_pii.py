@@ -6,7 +6,6 @@ Some more PII:
 
 Charged the credit card 4539-1488-0343-6467 successfully.
 
-Employee A SIN: 046-454-285
   
 Employee C SIN: 046-454-287
   
