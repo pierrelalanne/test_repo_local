@@ -1,18 +1,18 @@
-Employee SSN: 234-56-7890 on record.
+Employee SSN: on record.
   
 
-Please wire to IBAN AT61 1904 3002 3457 3201
+Please wire to 
 
 Some more PII:
 
-Charged the credit card 4539-1488-0343-6467 successfully.
+Charged the credit card successfully.
 
-Employee A SIN: 046-454-285
+Employee A SIN: 
   
   
-Employee B SIN: 046-454-286
+Employee B SIN: 
   
   
-Employee C SIN: 046-454-287
+Employee C SIN: 
   
-Employee D SIN: 046-454-288
+Employee D SIN: 
